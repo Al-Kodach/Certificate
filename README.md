@@ -1,3 +1,4 @@
 # Certificates
 
-The only certificate I currentely have is from Scrimba BoothCamp.
+List:
+Scrimba front-end developer certificate.
