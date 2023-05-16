@@ -1,7 +1,7 @@
 # Certificates
 <pre>
   List:
-  Scrimba front-end developer certificate
+  Scrimba Frontend Developer Career Path
   Basic Python Certificate of Achievement
 </pre>
 
